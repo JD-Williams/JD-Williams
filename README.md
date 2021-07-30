@@ -1,5 +1,12 @@
-### Hi there 👋
+# J.D. Williams
+<!-- <img src="https://github.com/JD-Williams/JD-Williams/blob/main/assets/spidey_sense.gif"> -->
+![Spidey-Sense](assets/spidey_sense.gif)
 
+## <p>Hi! It's nice to meet you. :wave:</p> 
+
+<p>My name is Jonathan Williams, but most people call me J.D. I am a Jamaican 🇯🇲 American 🇺🇸 who was born and raised in New York City, where I presently reside. </p>
+
+<p>Just in case we don't have a chance to chat anytime soon, here are a few itdbits of information about me:</p>
 <!--
 **JD-Williams/JD-Williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
