@@ -7,15 +7,15 @@
 
 ### Hi! It's nice to meet you. :wave:
 
-My name is Jonathan Williams&mdash;though most people call me "J.D."&mdash;and I am a Jamaican 🇯🇲 American 🇺🇸. In my heart, I am a musician. In real life, I am a mathematician. In my mind, I am a superhero; however, I typically enjoy helping others by paying my blessings forward.
+My name is Jonathan D. Williams&mdash;although most people call me "J.D."&mdash;and I am a Jamaican 🇯🇲 American 🇺🇸. In my heart, I am a musician. In real life, I am a mathematician. In my mind, I am a superhero; however, I typically enjoy helping others by paying my blessings forward.
 
-Currently, I teach mathematics and develop web applications in New York City. I have a knack for unraveling puzzles that vexes others; I apply both my knowledge of mathematics and technology to design and implement creative, sustainable solutions for complex problems.
+Currently, I teach mathematics and develop web applications in New York City. I have a knack for unraveling puzzles that vex others; I apply both my knowledge of mathematics and technology to design and implement creative, sustainable solutions for complex problems.
 
-Just in case we don't have an opportunity to chat anytime soon, the following are a few tidbits of information about me. If anything piques your interest, feel free to reach out so we can speak directly.
+Just in case we don't have an opportunity to chat anytime soon, the following are a few tidbits of information about me. If anything piques your interest, feel free to [reach out](mailto:jdwill917@live.com) so we can speak directly.
 
 * :house: My family is everything to me
 * :airplane: Travelling is, in my opinion, the best way to learn about different cultures
 * :camera: I enjoy recreational photography and I also have graphic design skills to complement this pastime
 * :game_die: The only "game" I have... is Sudoku (and sometimes Minesweeper)
-* :movie_camera: Marvel >> D.C.
-* :computer: I am presently learning new DevOps practices and technologies to efficiently deploy apps to cloud providers
+* :movie_camera: Marvel >>> D.C.
+* :computer: I am presently learning new DevOps practices and technologies to efficiently deploy apps to the cloud
