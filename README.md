@@ -1,23 +1,21 @@
-# J.D. Williams
-<!-- <img src="https://github.com/JD-Williams/JD-Williams/blob/main/assets/spidey_sense.gif"> -->
-![Spidey-Sense](assets/spidey_sense.gif)
+# J.D. Williams 
+[![Email Badge](https://img.shields.io/badge/Email-%230078D4.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=000000&color=6495ED&link=mailto:jdwill917@live.com)](mailto:jdwill917@live.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=6495ED&link=https://www.instagram.com/jdthedev)](https://www.instagram.com/jdthedev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=6495ED&link=https://twitter.com/jd_the_dev)](https://twitter.com/jd_the_dev)
 
-## <p>Hi! It's nice to meet you. :wave:</p> 
+<img src="https://github.com/JD-Williams/JD-Williams/blob/main/assets/spidey_sense.gif" width="199px">
 
-<p>My name is Jonathan Williams, but most people call me J.D. I am a Jamaican 🇯🇲 American 🇺🇸 who was born and raised in New York City, where I presently reside. </p>
+### Hi! It's nice to meet you. :wave:
 
-<p>Just in case we don't have a chance to chat anytime soon, here are a few itdbits of information about me:</p>
-<!--
-**JD-Williams/JD-Williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jonathan Williams&mdash;though most people call me "J.D."&mdash;and I am a Jamaican 🇯🇲 American 🇺🇸. In my heart, I am a musician. In real life, I am a mathematician. In my mind, I am a superhero; however, I typically enjoy helping others by paying my blessings forward.
 
-Here are some ideas to get you started:
+Currently, I teach mathematics and develop web applications in New York City. I have a knack for unraveling puzzles that vexes others; I apply both my knowledge of mathematics and technology to design and implement creative, sustainable solutions for complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just in case we don't have an opportunity to chat anytime soon, the following are a few tidbits of information about me. If anything piques your interest, feel free to reach out so we can speak directly.
+
+* :house: My family is everything to me
+* :airplane: Travelling is, in my opinion, the best way to learn about different cultures
+* :camera: I enjoy recreational photography and I also have graphic design skills to complement this pastime
+* :game_die: The only "game" I have... is Sudoku (and sometimes Minesweeper)
+* :movie_camera: Marvel >> D.C.
+* :computer: I am presently learning new DevOps practices and technologies to efficiently deploy apps to cloud providers
