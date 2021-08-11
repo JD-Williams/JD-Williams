@@ -9,7 +9,7 @@
 
 My name is Jonathan D. Williams&mdash;although most people call me "J.D."&mdash;and I am a Jamaican 🇯🇲 American 🇺🇸. In my heart, I am a musician. In real life, I am a mathematician. In my mind, I am a superhero; however, I typically enjoy helping others by paying my blessings forward.
 
-Currently, I teach mathematics and develop web applications in New York City. I have a knack for unraveling puzzles that vex others; I apply both my knowledge of mathematics and technology to design and implement creative, sustainable solutions for complex problems.
+Currently, I teach mathematics in New York City and I have a knack for unraveling puzzles that vex others. Often times, I try to learn new technologies to broaden my skillset. I strive to use my STEM background to design and implement creative, sustainable solutions for complex problems. 
 
 Just in case we don't have an opportunity to chat anytime soon, the following are a few tidbits of information about me. If anything piques your interest, feel free to [reach out](mailto:jdwill917@live.com) so we can speak directly.
 
