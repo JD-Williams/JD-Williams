@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=6495ED&link=https://www.instagram.com/jdthedev)](https://www.instagram.com/jdthedev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=6495ED&link=https://twitter.com/jd_the_dev)](https://twitter.com/jd_the_dev)
 
-<img src="https://github.com/JD-Williams/JD-Williams/blob/main/assets/spidey_sense.gif" width="199px">
+<!-- <img src="https://github.com/JD-Williams/JD-Williams/blob/main/assets/spidey_sense.gif" width="199px"> -->
 
 ### Hi! It's nice to meet you. :wave:
 
@@ -18,4 +18,4 @@ Just in case we don't have an opportunity to chat anytime soon, the following ar
 * :camera: I enjoy recreational photography and I also have graphic design skills to complement this pastime
 * :game_die: The only "game" I have... is Sudoku (and sometimes Minesweeper)
 * :movie_camera: Marvel >>> D.C.
-* :computer: I am presently learning new DevOps practices and technologies to efficiently deploy apps to the cloud
+* :computer: I am continuously learning new DevOps practices and technologies to efficiently deploy apps to the cloud
